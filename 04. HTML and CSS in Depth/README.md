@@ -21,7 +21,7 @@ This is a beginner course for learners who would like to prepare themselves for 
 - Implement debugging tools.
 
 ## 🔑 Key Skills Learned 
--Debugging.
+- Debugging.
 - User Interface.
 - React (Web Framework).
 - HTML and CSS.
