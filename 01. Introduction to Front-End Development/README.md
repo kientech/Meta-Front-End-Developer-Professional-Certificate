@@ -36,7 +36,6 @@ This is a beginner course intended for learners eager to learn the fundamentals 
 To verify the certificates, click the images to follow the links.
 
 <p align="middle">
-  Completing...
-<!--   <a href="https://www.coursera.org/account/accomplishments/professional-cert/J6CZH7G6UGPY"><img src="https://user-images.githubusercontent.com/96287101/204545392-b022d72b-3bfd-4f70-81b6-55d0e24d70ac.jpg" height="430"></a> -->
+<a href="https://www.coursera.org/account/accomplishments/verify/564MF6G85TVZ"><img src="https://user-images.githubusercontent.com/96287101/205591686-c807076b-6e9a-4c7c-84d3-6384f2b5b7ff.jpg" height="430"></a>
 </p>
 
